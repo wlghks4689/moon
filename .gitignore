@@ -1,0 +1,7 @@
+# Local source snapshots and temporary review artifacts
+/imports/
+/tmp/
+
+# OS metadata
+Thumbs.db
+.DS_Store
